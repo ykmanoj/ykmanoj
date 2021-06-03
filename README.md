@@ -7,13 +7,17 @@
 - Learning & RESEARCH PROJECT
 -   BERT/Roerta - Fine Tuning for COVID data
 -   LSTM based Sequence classification to identify Fake News
--   Master Thesis Topic : RARE Failure prediction using Machine sensor Data
+-   RARE Failure prediction using Machine sensor Data
 -   Solving class imbalance problem using deep generative model
 -   Hybrid approach of GAN and VAE
 -   Sentence to SQL : language Translation, Deep learning
 -   X-ray image to identify disease : Image pre-processing/augmentation
 -   Gesture Recognition: TV remote control gesture recognition. Image processing
 -   Inventory Management: Reinforcement Learning
+-   Loan Defaulter Prediction
+-   Telcom Churn
+-   Resturant Based ChatBot
+-   
 
 KEY SKILLS & EXPERTISE
 •	Proficient in Machine learning, NLP, Deep Learning and Data science concept
